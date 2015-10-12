@@ -3,5 +3,9 @@ Prueba
 
 Este es el texto que ahora está siendo cambiado, pero no lo voy a sincronizar aún.
 
-Linea conflictiva
+<<<<<<< HEAD
 
+=======
+Nueva linea de origen
+>>>>>>> origin/master
+Linea conflictiva
