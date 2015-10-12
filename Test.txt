@@ -1,3 +1,4 @@
 Prueba
 
-Este es el texto original.
+Este es el texto que ahora está siendo cambiado, pero no lo voy a sincronizar aún.
+
